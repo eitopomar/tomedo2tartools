@@ -35,7 +35,7 @@ Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tom
 
 ![Menüpunkt Statistik](./images/tomedo_menu_statistik_s.jpeg)
 
-2. Anschliessend die Vorlage "Tardoc-Leistungsanalyse" auswählen, den Zeitraum der Daten anpassen und auf "Ausführen" klicken.
+2. Anschliessend die **"Vorlage Tardoc-Leistungsanalyse"** auswählen, den Zeitraum der Daten anpassen und auf "Ausführen" klicken.
 
 ![Statistikabfrage anpassen](./images/tomede_statistik_s.png)
 
