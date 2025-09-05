@@ -53,15 +53,20 @@ Die so erstellte CSV-Datei muss vor dem Import in die Tartools in eine Excel-Dat
 
 # CSV in Excel konvertieren
 
-Herunterladen des Python-Scripts (./main.py) und Installation der nötigen Module:
+Herunterladen des Python-Skripts (./main.py), ausführbar machen und Installation der nötigen Module:
 
+```
+chmod u+x main.py
+```
 
 ```
 pip3 install pandas openpyxl
 ```
 
-Ausführen des Scripts mit der von Tomedo exportierten CSV-Datei als Parameter:
+Ausführen des Skripts mit der von Tomedo exportierten CSV-Datei als Parameter:
 
 ```
 python3 main.py export.csv
 ```
+
+Das Python Skript konvertiert die CSV-Datei in eine Excel-Datei, die dann in die Tartools importiert werden kann.
