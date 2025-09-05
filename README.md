@@ -15,3 +15,16 @@ Dieser Abschnitt beschreibt den Export der Daten aus dem Trustcenter syndata. F�
 1. Auf der ersten Seite des Praxisspiegels gibt es rechts unten eine Kachel mit Spezialauswertungen
 
 ![Homepage Praxisspiegel syndata.ch](./images/syndata_home.png)
+
+2. Dort "Datenexport Volumis & Trans auswählen"
+
+![Datenexport Volumis & Trans](./images/syndata_export1.png)
+
+3. Auf der nächsten Seite links unten die Periode und ggf. das Gesetz (KVG) auswählen und auf "Daten exportieren" klicken
+
+![Daten exportieren](./images/syndata_export2.png)
+
+Die Daten werden als Excel-Datei exportiert und können heruntergeladen werden.
+
+## Datenexport Tomedo
+
