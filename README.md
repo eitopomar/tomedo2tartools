@@ -36,4 +36,16 @@ Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tom
 
 2. Anschliessend die Vorlage "Tardoc-Leistungsanalyse" auswählen, den Zeitraum der Daten anpassen und auf "Ausführen" klicken.
 
-![Statistikabfrage anpassen](./images/tomede_statistik.png)
+![Statistikabfrage anpassen](./images/tomede_statistik.png){height=420}
+
+3. Im Ergebnisfenster "Aktionen..." anklicken und im Menü "Export > CSV-Datei" auswählen.
+
+![Tomedo Export CSV](./images/tomedo_export.jpeg)
+
+4. In den Exporteinstellungen nichts anpassen und auf "OK" klicken.
+
+![Exporteinstellungen](./images/export_settings.png)
+
+5. Im Speichern-Dialog einen passenden Dateinamen und Speicherort wählen.
+
+
