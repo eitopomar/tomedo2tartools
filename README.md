@@ -1,6 +1,6 @@
 # Einleitung
 
-Mit dem Wechsel des Leistungskatalogs von TARMED auf TARDOC kommen einige Veränderungen auf die abrechnenden Ärztinnen und Ärzte zu. Die Ärztekasse und die FMH stellen allen Mitgliedern ein kostenloses Tool ([Tartools.ch](www.tartools.ch)) zur Verfügung, mit dessen Hilfe sich die Auswirkungen des TARDOC auf die Abrechnung simulieren lassen.
+Mit dem Wechsel des Leistungskatalogs von TARMED auf TARDOC kommen einige Veränderungen auf die abrechnenden Ärztinnen und Ärzte zu. Die Ärztekasse und die FMH stellen allen Mitgliedern ein kostenloses Tool ([Tartools.ch](https://www.tartools.ch)) zur Verfügung, mit dessen Hilfe sich die Auswirkungen des TARDOC auf die Abrechnung simulieren lassen.
 Im folgenden wird kurz beschrieben, wie die eigenen Abrechnungsdaten in die Tartools importiert und ausgewertet werden können.
 
 # Datenexport
