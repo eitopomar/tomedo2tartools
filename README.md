@@ -12,15 +12,15 @@ Ist die Praxis einem Trustcenter angeschlossen, gibt es wahrscheinlich die Mögl
 
 Dieser Abschnitt beschreibt den Export der Daten aus dem Trustcenter syndata. Für die anderen Trustcenter existieren wahrscheinlich ähnliche Exportmöglichkeiten. Im Zweifelsfrei beim Trustcenter nachfragen.
 
-1. Auf der ersten Seite des Praxisspiegels gibt es rechts unten eine Kachel mit Spezialauswertungen
+1. Auf der ersten Seite des Praxisspiegels gibt es rechts unten eine Kachel mit Spezialauswertungen.
 
 ![Homepage Praxisspiegel syndata.ch](./images/syndata_home.png)
 
-2. Dort "Datenexport Volumis & Trans auswählen"
+2. Dort "Datenexport Volumis & Trans auswählen".
 
 ![Datenexport Volumis & Trans](./images/syndata_export1.png)
 
-3. Auf der nächsten Seite links unten die Periode und ggf. das Gesetz (KVG) auswählen und auf "Daten exportieren" klicken
+3. Auf der nächsten Seite links unten die Periode und ggf. das Gesetz (KVG) auswählen und auf "Daten exportieren" klicken.
 
 ![Daten exportieren](./images/syndata_export2.png)
 
@@ -28,3 +28,12 @@ Die Daten werden als Excel-Datei exportiert und können heruntergeladen werden.
 
 ## Datenexport Tomedo
 
+Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tomedo. Über die Statistikfunktion der Software können die Leistungsdaten beliebiger Zeiträume als csv-Datei heruntergeladen werden.
+
+1. Im Menü "Verwaltung" den Punkt "Statistiken" auswählen.
+
+![Menüpunkt Statistik](./images/tomedo_menu_statistik.jpeg)
+
+2. Anschliessend die Vorlage "Tardoc-Leistungsanalyse" auswählen, den Zeitraum der Daten anpassen und auf "Ausführen" klicken.
+
+![Statistikabfrage anpassen](./images/tomede_statistik.png)
