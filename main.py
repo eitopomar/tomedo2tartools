@@ -3,6 +3,11 @@ import sys
 
 
 def main():
+    """
+    Einlesen der Daten aus der angegebenen CSV-Datei. Umbennung der Spalten,
+    Einfügen der ZSR Spalte und Export in eine xlsx-Datei mit der korrekten
+    Formatierung.
+    """
     filename = sys.argv[1]
     df = pd.read_csv(filename, sep=';', converters={'tarmed_code': str})
     df.rename({'tarmed_code': 'PosNo', 'anzahl': 'Menge'}, axis=1, inplace=True)
@@ -16,8 +21,6 @@ def main():
     format1 = workbook.add_format({"num_format": "###0"})
     worksheet.set_column(2, 2, 18, format1)
     writer.close()
-    # result.astype({'Menge': 'int'})
-    # result.to_excel('leistungen.xlsx', index=False)
 
 
 if __name__ == "__main__":
