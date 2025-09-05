@@ -45,7 +45,7 @@ Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tom
 
 4. In den Exporteinstellungen nichts anpassen und auf "OK" klicken.
 
-![Exporteinstellungen](./images/export_settings.png)
+![Exporteinstellungen](./images/export_settings_s.png)
 
 5. Im Speichern-Dialog einen passenden Dateinamen und Speicherort wählen.
 
