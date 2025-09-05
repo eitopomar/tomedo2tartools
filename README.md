@@ -60,7 +60,7 @@ chmod u+x main.py
 ```
 
 ```
-pip3 install pandas openpyxl
+pip3 install pandas xlsxwriter
 ```
 
 Ausführen des Skripts mit der von Tomedo exportierten CSV-Datei als Parameter:
