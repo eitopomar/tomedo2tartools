@@ -29,7 +29,7 @@ Die Daten werden als Excel-Datei exportiert und können heruntergeladen werden.
 
 ## Datenexport Tomedo
 
-Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tomedo. Über die Statistikfunktion der Software können die Leistungsdaten beliebiger Zeiträume als csv-Datei heruntergeladen werden.
+Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tomedo. Über die Statistikfunktion der Software können die Leistungsdaten beliebiger Zeiträume als csv-Datei heruntergeladen werden. Vorraussetzung ist mindesten die Tomedo-Version v1.158.10.6.
 
 1. Im Menü "Verwaltung" den Punkt "Statistiken" auswählen.
 

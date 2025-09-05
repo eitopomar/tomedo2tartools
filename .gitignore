@@ -12,3 +12,6 @@ wheels/
 # Data
 *.csv
 *.xlsx
+
+# MacOS
+.DS_Store
