@@ -16,6 +16,7 @@ Dieser Abschnitt beschreibt den Export der Daten aus dem Trustcenter syndata. F�
 
 ![Homepage Praxisspiegel syndata.ch](./images/syndata_home.png)
 
+
 2. Dort "Datenexport Volumis & Trans auswählen".
 
 ![Datenexport Volumis & Trans](./images/syndata_export1.png)
@@ -36,7 +37,7 @@ Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tom
 
 2. Anschliessend die Vorlage "Tardoc-Leistungsanalyse" auswählen, den Zeitraum der Daten anpassen und auf "Ausführen" klicken.
 
-![Statistikabfrage anpassen](./images/tomede_statistik.png){height=420}
+![Statistikabfrage anpassen](./images/tomede_statistik.png)
 
 3. Im Ergebnisfenster "Aktionen..." anklicken und im Menü "Export > CSV-Datei" auswählen.
 
@@ -48,4 +49,19 @@ Dieser Abschnitt beschreibt den Datenexport aus dem Praxisinformationssystem Tom
 
 5. Im Speichern-Dialog einen passenden Dateinamen und Speicherort wählen.
 
+Die so erstellte CSV-Datei muss vor dem Import in die Tartools in eine Excel-Datei konvertiert werden.
 
+# CSV in Excel konvertieren
+
+Herunterladen des Python-Scripts (./main.py) und Installation der nötigen Module:
+
+
+```
+pip3 install pandas openpyxl
+```
+
+Ausführen des Scripts mit der von Tomedo exportierten CSV-Datei als Parameter:
+
+```
+python3 main.py export.csv
+```
