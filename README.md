@@ -53,7 +53,7 @@ Die so erstellte CSV-Datei muss vor dem Import in die Tartools in eine Excel-Dat
 
 # CSV in Excel konvertieren
 
-Herunterladen des Python-Skripts (./main.py), ausführbar machen und Installation der nötigen Module:
+Herunterladen des Python-Skripts [main.py](./main.py), ausführbar machen und Installation der nötigen Module:
 
 ```
 chmod u+x main.py
